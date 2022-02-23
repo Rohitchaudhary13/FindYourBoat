@@ -18,7 +18,12 @@
     z-index: 1;
     overflow: hidden;
 }
-
+.nav-link {
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
 .hero nav{
     display:flex;
     align-items: center;
